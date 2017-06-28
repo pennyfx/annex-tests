@@ -1,0 +1,1 @@
+8a0e70f1-c2b8-4285-a88b-603cef981586 bucket=s3_cloud-8a0e70f1-c2b8-4285-a88b-603cef981586 chunk=1MiB datacenter=US encryption=none host=s3.amazonaws.com name=s3_cloud port=80 storageclass=STANDARD type=S3 timestamp=1498692162.539214s

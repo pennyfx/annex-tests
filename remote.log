@@ -1,1 +1,1 @@
-cbf86da3-2f7b-4d20-8c28-55e3bc390bdb bucket=s3_cloud-cbf86da3-2f7b-4d20-8c28-55e3bc390bdb chunk=1MiB datacenter=US encryption=none host=s3.amazonaws.com name=s3_cloud port=80 storageclass=STANDARD type=S3 timestamp=1498693750.66298s
+cbf86da3-2f7b-4d20-8c28-55e3bc390bdb bucket=s3_cloud-cbf86da3-2f7b-4d20-8c28-55e3bc390bdb chunk=1MiB datacenter=US encryption=none host=s3.amazonaws.com name=s3_cloud port=80 storageclass=STANDARD type=S3 timestamp=1498694873.03001s
